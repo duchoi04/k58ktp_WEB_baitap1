@@ -81,18 +81,55 @@ From1.cs[design]
 
 Cấu hình IIS
 
+<img width="1902" height="1073" alt="Screenshot 2025-09-28 232431" src="https://github.com/user-attachments/assets/fba1d0e2-2175-4be4-b70e-bb50e608b108" />
+
 
 phát triển và lập trình.
 
-
 Giao diện (UI).
+
+<img width="1887" height="990" alt="Screenshot 2025-09-28 232907" src="https://github.com/user-attachments/assets/4cd32f40-550a-4f7d-838b-fdf061a2d018" />
+
+
+
+<img width="1881" height="987" alt="Screenshot 2025-09-28 232823" src="https://github.com/user-attachments/assets/ce274348-a3ee-403d-ac8f-c6b0452cb465" />
+
+
 
 code-behind (logic)
 
+
+<img width="1920" height="1080" alt="Screenshot 2025-09-28 232612" src="https://github.com/user-attachments/assets/63b162d1-6da3-4e68-9dad-668cf3b45dba" />
+
+
+<img width="1914" height="983" alt="Screenshot 2025-09-28 232619" src="https://github.com/user-attachments/assets/48182011-68d8-48a1-b1de-5bcd6b46c869" />
+
+
+
+
 html css js
+
+<img width="1916" height="1075" alt="Screenshot 2025-09-28 215015" src="https://github.com/user-attachments/assets/07d15c36-eefb-4581-aede-7fd0cf50497e" />
+
+
+
+<img width="1920" height="1080" alt="Screenshot 2025-09-28 215021" src="https://github.com/user-attachments/assets/1069f91b-b1e9-4a70-b648-e55487021a57" />
+
+
+
+<img width="1920" height="1080" alt="Screenshot 2025-09-28 215029" src="https://github.com/user-attachments/assets/c821c72e-2664-4669-b217-d86f8c533f75" />
+
+
+
+
+
+
+
+
 
 KẾT QUẢ
 
+<img width="1920" height="1080" alt="Screenshot 2025-09-28 232254" src="https://github.com/user-attachments/assets/d17b75aa-5bde-47c7-9d81-4088faa70692" />
 
 
 
